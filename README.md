@@ -19,4 +19,4 @@ First, we’ve created a list of action items (student-action-items.docx). As yo
 2)	Agree on a basic process for writing code and conducting code review
 3)	Designate roles for larger and/or recurring tasks
 
-Once you’ve established some group norms and are working on the scripting portion of your projects, it’s good practice to regularly review your code. We’ve created a checklist that will help identify areas to focus your reviews on (student-checklist.docx). Please be sure to save all of your checklists for each round of code review you complete. There is also a video example of how the checklist might be used (checklist-example-video.mov). 
+Once you’ve established some group norms and are working on the scripting portion of your projects, it’s good practice to regularly review your code. We’ve created a checklist that will help identify areas to focus your reviews on (student-checklist.docx). Please be sure to save all of your checklists for each round of code review you complete. There is also a video example of how the checklist might be used linked [here](https://drive.google.com/file/d/1P9HJrVnY6QNsBWFIBNIbXCCuxh3nUwfQ/view). 
